@@ -4,12 +4,17 @@
 **View my personal blog [here](https://syome.vercel.app/), further I wish it will be developed to a community =v=**
 
 ## 👋 About Me
+🎯 Passionate about frontend development and the art of crafting responsive, intuitive user interfaces.
 
-Passionate about frontend development and the art of crafting responsive, intuitive user interfaces.  
-Almost every programming language I know is self-taught — I enjoy learning by building, replicating ideas as they strike, and refining them through experimentation.  
+🔧 Almost every programming language I know is self-taught —  
+I enjoy learning by building, replicating ideas as they strike, and refining them through experimentation.
 
-What excites me most is tracing systems back to their fundamentals — exploring low-level mechanics and uncovering the "why" behind the "how."  
-This mindset drives the way I approach architecture, optimization, and tooling across the stack. And that's why I prefer to do all by myself.
+🧠 What excites me most is tracing systems back to their fundamentals —  
+exploring low-level mechanics and uncovering the "why" behind the "how."
+
+This mindset drives the way I approach architecture, optimization, and tooling across the stack.  
+And that's why I prefer to do all by myself.
+
 
 > I use arch btw =ω=
 ---
