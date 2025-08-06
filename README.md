@@ -14,7 +14,9 @@ This mindset drives the way I approach architecture, optimization, and tooling a
 > I use arch btw =ω=
 ---
 
-About my public github stats (full please checkout [my site](https://syome.vercel.app/))
+About my **public** github stats (full please check out [my site](https://syome.vercel.app/))
+
+[![My GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SevenSec114&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SevenSec114&show_icons=true&count_private=true&theme=nord)
 
