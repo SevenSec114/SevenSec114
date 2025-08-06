@@ -1,7 +1,7 @@
 # Syam だよ！
 > 2023 から
 
-View my personal blog [here](https://syome.vercel.app/), further I wish it will be developed to a community =v=
+**View my personal blog [here](https://syome.vercel.app/), further I wish it will be developed to a community =v=**
 
 ## 👋 About Me
 
