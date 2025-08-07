@@ -19,13 +19,13 @@ And that's why I prefer to do all by myself.
 > I use arch btw =ω=
 ---
 
-About my **public** github stats (full please check out [my site](https://syome.vercel.app/))
+About my github stats (full please check out [my site](https://syome.vercel.app/))
 
-[![My GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SevenSec114&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+![My GitHub Activity Graph](https://github-graph-syam.vercel.app/graph?username=SevenSec114&theme=tokyo-night)
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SevenSec114&show_icons=true&count_private=true&theme=nord)
+![My GitHub stats](https://github-stats-syam.vercel.app/api?username=SevenSec114&show_icons=true&count_private=true&include_all_commits=true&theme=nord)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SevenSec114&layout=compact&theme=nord)
+![Top Langs](https://github-stats-syam.vercel.app/api/top-langs/?username=SevenSec114&layout=compact&exclude_repo=github-stats-syam,github-activity-graph-syam&theme=nord)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SevenSec114&theme=nord)
 
