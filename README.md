@@ -27,7 +27,7 @@ About my github stats (full please check out [my site](https://syome.vercel.app/
 
 ![Top Langs](https://github-stats-syam.vercel.app/api/top-langs/?username=SevenSec114&layout=compact&exclude_repo=github-stats-syam,github-activity-graph-syam&theme=nord)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SevenSec114&theme=nord)
+[![GitHub Streak](https://github-streak-stats-syam.vercel.app?user=SevenSec114&theme=nord)](https://git.io/streak-stats)
 
 ## Others
 **[She](https://amashiro.com) is been a constant source of encouragement and inspiration for me.**
