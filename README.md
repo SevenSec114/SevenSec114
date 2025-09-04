@@ -25,7 +25,7 @@ About my github stats (full please check out [my site](https://syome.vercel.app/
 
 ![My GitHub stats](https://github-stats-syam.vercel.app/api?username=SevenSec114&show_icons=true&count_private=true&include_all_commits=true&theme=nord)
 
-![Top Langs](https://github-stats-syam.vercel.app/api/top-langs/?username=SevenSec114&layout=compact&exclude_repo=github-stats-syam,github-activity-graph-syam&theme=nord)
+![Top Langs](https://github-stats-syam.vercel.app/api/top-langs/?username=SevenSec114&layout=compact&exclude_repo=github-stats-syam,github-activity-graph-syam,github-streak-stats-syam&theme=nord)
 
 [![GitHub Streak](https://github-streak-stats-syam.vercel.app?user=SevenSec114&theme=nord)](https://git.io/streak-stats)
 
