@@ -1,6 +1,12 @@
 # Syam だよ！
 > 2023 から
 
+<p align="center">
+  <a href="https://syome.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/visit%20my%20site-view-88C0D0?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
+</p>
+
 <div align="center">
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arch_linux.png" alt="Arch Linux" title="Arch Linux"/>
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/>
@@ -13,12 +19,9 @@
   <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/>
 </div>
 
----
-
-**View my personal blog [here](https://syome.vercel.app/), further I wish it will be developed to a community =v=**
-
-## 👋 About Me
-🎯 Passionate about frontend development and the art of crafting responsive, intuitive user interfaces.
+<details>
+	<summary><h2>About Me</h2></summary>
+🎯 Passionate about frontend development and the art of crafting responsive, intuitive user interfaces. 
 
 🔧 Almost every programming language I know is self-taught —  
 I enjoy learning by building, replicating ideas as they strike, and refining them through experimentation.
@@ -29,11 +32,10 @@ exploring low-level mechanics and uncovering the "why" behind the "how."
 This mindset drives the way I approach architecture, optimization, and tooling across the stack.  
 And that's why I prefer to do all by myself.
 
-
 > I use arch btw =ω=
----
+</details>
 
-About my github stats (full please check out [my site](https://syome.vercel.app/))
+## My github stats
 
 [![My GitHub Activity Graph](https://github-graph-syam.vercel.app/graph?username=SevenSec114&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
