@@ -46,4 +46,4 @@ And that's why I prefer to do all by myself.
 
 ## Others
 **[She](https://amashiro.com) is been a constant source of encouragement and inspiration for me.**
-> ぜひチェクしてくださいね😺
+> ぜひチェクしてくださいね🐈
