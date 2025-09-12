@@ -45,5 +45,5 @@ And that's why I prefer to do all by myself.
 [![GitHub Streak](https://github-streak-stats-syam.vercel.app?user=SevenSec114&theme=nord)](https://git.io/streak-stats)
 
 ## Others
-**[She](https://amashiro.com) is been a constant source of encouragement and inspiration for me.**
+**[She](https://amashiro.com)'s been a constant source of encouragement and inspiration for me.**
 > ぜひチェクしてくださいね🐈
