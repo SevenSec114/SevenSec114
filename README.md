@@ -41,7 +41,7 @@ And that's why I prefer to do all by myself.
 [![My GitHub Activity Graph](https://github-graph-syam.vercel.app/graph?username=SevenSec114&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 [![My GitHub stats](https://github-stats-syam.vercel.app/api?username=SevenSec114&show_icons=true&count_private=true&include_all_commits=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-stats-syam.vercel.app/api/top-langs/?username=SevenSec114&layout=compact&exclude_repo=github-stats-syam,github-activity-graph-syam,github-streak-stats-syam&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-syam.vercel.app/api/top-langs/?username=SevenSec114&layout=compact&langs_count=8&exclude_repo=github-stats-syam,github-activity-graph-syam,github-streak-stats-syam&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-streak-stats-syam.vercel.app?user=SevenSec114&theme=nord)](https://git.io/streak-stats)
 
