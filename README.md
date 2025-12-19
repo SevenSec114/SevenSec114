@@ -36,6 +36,8 @@ And that's why I prefer to do all by myself.
 > I use arch btw =ω=
 </details>
 
+> All public contributions you can see were migrated to [Syome](https://github.com/Syomes), btw I want to build a little community =v=
+
 ## My github stats
 
 [![My GitHub Activity Graph](https://github-graph-syam.vercel.app/graph?username=SevenSec114&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
