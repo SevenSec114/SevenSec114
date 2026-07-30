@@ -2,7 +2,7 @@
 > 2023 から
 
 <p align="center">
-  <a href="https://www.syome.top/" target="_blank">
+  <a href="https://www.syome.dev/" target="_blank">
     <img src="https://img.shields.io/badge/visit%20my%20site-view-88C0D0?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
 </p>
